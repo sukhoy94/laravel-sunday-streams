@@ -1,4 +1,4 @@
-****# Laravel sunday streaming
+# Laravel sunday streaming
 
 ## Stream 1 - seeding
 
